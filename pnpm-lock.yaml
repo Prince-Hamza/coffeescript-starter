@@ -1,0 +1,15 @@
+lockfileVersion: 5.3
+
+specifiers:
+  coffeescript: ^2.6.1
+
+dependencies:
+  coffeescript: 2.6.1
+
+packages:
+
+  /coffeescript/2.6.1:
+    resolution: {integrity: sha512-GG5nkF93qII8HmHqnnibkgpp/SV7PSnSPiWsbinwya7nNOe95aE/x2xrKZJFks8Qpko3TNrC+/LahaKgrz5YCg==}
+    engines: {node: '>=6'}
+    hasBin: true
+    dev: false
